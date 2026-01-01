@@ -89,7 +89,3 @@ SQL          ██░░░░░░░░░░░░░░░░░░  10%
 > 最后更新于: 2026年1月1日
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hiter666-join&theme=radical&no-frame=false&row=2&column=6" alt="Hiter666-join's GitHub Trophy"/>
-</p>
