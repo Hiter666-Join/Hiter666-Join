@@ -50,13 +50,20 @@ class Student:
 
 ---
 
-## 📊 本周学习时间
+## 📊 本周学习内容
 
 ```text
 Python       ████████████░░░░░░░░  60% 
 JavaScript   ████████░░░░░░░░░░░░  30%
 SQL          ██░░░░░░░░░░░░░░░░░░  10%
 ```
+
+---
+
+## 📊 本周学习时间
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -82,3 +89,7 @@ SQL          ██░░░░░░░░░░░░░░░░░░  10%
 > 最后更新于: 2026年1月1日
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hiter666-join&theme=radical&no-frame=false&row=2&column=6" alt="Hiter666-join's GitHub Trophy"/>
+</p>
