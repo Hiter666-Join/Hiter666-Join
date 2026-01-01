@@ -1,5 +1,5 @@
 
-# 👋 你好，我是 [你的名字]
+# 👋 你好，我是 [Hiter666-Join]
 
 ## 🌟 关于我
 
@@ -18,8 +18,8 @@ class Student:
             "💻 C++ 编程",
             "🐍 Python 开发", 
             "🕷️ 网络爬虫",
-            "📜 Python 自动化脚本"
-            "📡 RESTful API 设计"
+            "📜 Python 自动化脚本",
+            "📡 RESTful API 设计",
             "⚡ FastAPI 后端开发",
             "🌐 HTML/CSS/JavaScript 前端开发",
             "🗄️ MySQL 数据库设计",
@@ -27,9 +27,9 @@ class Student:
         ]
 ```
 
-🚀 正在学习
+## 🚀 正在学习
 
-💡 技术栈
+## 💡 技术栈
 
 编程语言
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -50,24 +50,12 @@ class Student:
 - 🤖 自动化项目：完成 2 个自动化脚本项目
 - 📊 数据能力：提升数据分析和可视化技能
 
-🏗️ 项目展示
-
-最新项目
-
-📊 GitHub 统计
-
-🌐 个人链接
-
-🤝 与我联系
-
 ---
 
-📈 本周开发时间
+## 📊 本周编码时长
 
-```text
-Python       ████████████░░░░░░░░  60% 
-C++         ████████░░░░░░░░░░░░  40%
-```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
