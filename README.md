@@ -1,5 +1,5 @@
 
-# 👋 你好，我是 [Hiter666-Join]
+# 👋 你好，我是 Hiter666-Join
 
 ## 🌟 关于我
 
@@ -29,8 +29,6 @@ class Student:
 
 ## 🚀 正在学习
 
-## 💡 技术栈
-
 编程语言
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -52,10 +50,13 @@ class Student:
 
 ---
 
-## 📊 本周编码时长
+## 📊 本周学习时间
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+```text
+Python       ████████████░░░░░░░░  60% 
+JavaScript   ████████░░░░░░░░░░░░  30%
+SQL          ██░░░░░░░░░░░░░░░░░░  10%
+```
 
 ---
 
