@@ -51,16 +51,6 @@ class Student:
 
 ---
 
-## 📊 本周学习内容
-
-```text
-Python       ████████████░░░░░░░░  60% 
-JavaScript   ████████░░░░░░░░░░░░  30%
-SQL          ██░░░░░░░░░░░░░░░░░░  10%
-```
-
----
-
 ## 📊 本周学习时间
 
 <!--START_SECTION:waka-->
@@ -89,21 +79,11 @@ TypeScript               1 repo              █████░░░░░░�
 C                        1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Hiter666-Join/Hiter666-Join/main/assets/bar_graph.png)
-
-
- Last Updated on 03/01/2026 05:30:38 UTC
-<!--END_SECTION:waka-->
-
 ---
 
 💬 一句话介绍
 
-> 🌱 "代码改变世界，坚持成就梦想" 
+> 🌱 "代码改变世界，开源创造未来" 
 
 ---
 
