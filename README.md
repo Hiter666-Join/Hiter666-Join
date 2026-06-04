@@ -8,7 +8,6 @@ class Student:
     def __init__(self):
         self.name = "Hiter"
         self.age = 20
-        self.university = "广东科技学院"
         self.major = "软件工程"
         self.grade = "大二"
         self.status = "持续学习中..."
