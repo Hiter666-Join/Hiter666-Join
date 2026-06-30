@@ -1,5 +1,4 @@
-
-# 你好，我是 Hiter666-Join
+# Hi，I am Hiter666-Join
 
 ## 🌟 关于我
 
@@ -14,12 +13,13 @@ class Student:
     
     def get_interests(self):
         return [
-            "💻 C++ 编程",
             "🐍 Python 开发", 
-            "🕷️ 网络爬虫",
+            "🐹 Golang 开发",
+            "🕷️ 网络爬虫 (Requests)",
             "📜 Python 自动化脚本",
-            "📡 RESTful API 设计",
             "⚡ FastAPI 后端开发",
+            "📡 RESTful API 设计",
+            "🧵 Golang 并发编程 (Goroutine/Channel)",
             "🌐 HTML/CSS/JavaScript 前端开发",
             "🗄️ MySQL 数据库设计",
             "🔄 全栈项目实战",
@@ -30,9 +30,11 @@ class Student:
 
 编程语言
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 框架 & 工具
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-2CA5E0?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -42,11 +44,12 @@ class Student:
 
 🎯 当前目标
 
-- 🎓 学业优先：保持优秀的学习成绩
-- 💪 技能提升：深入掌握 C++ 和 Python
-- 🌐 前端进阶：学习 React/Vue 框架
-- 🤖 自动化项目：完成 2 个自动化脚本项目
-- 📊 数据能力：提升数据分析和可视化技能
+- 🎓 学业成绩：保持优秀的学习成绩
+- 🐍 Python 进阶：深入掌握 FastAPI 框架和异步编程
+- 🐹 Golang 深化：熟练运用并发模型，掌握常用标准库
+- 🕷️ 爬虫实战：完成 2-3 个数据采集项目
+- 🔗 项目实践：用 FastAPI + Golang 微服务搭建完整项目
+- ☁️ 学习 Docker 容器化部署
 
 ---
 
@@ -82,20 +85,11 @@ C                        1 repo              █████░░░░░░�
 
 💬 一句话介绍
 
-> 🌱 "代码改变世界，开源创造未来" 
+> 🌱 "或许起点越低，遇到真正改变自己命运的机会时，就会抓的越牢
+      这并没有什么可耻的，只要知道想去哪里，和自己从哪里出发的就好" 
 
 ---
 
-🎨 趣味数据
-
-- 🔥 连续编程天数: 2年26天
-- 📝 刷题题目数量: 133次 
-- 📚 读过的技术书籍: 12+
-- ☕ 消耗的咖啡: 无限续杯 ⚡
-
----
-
----
 
 📝 最后更新
 
